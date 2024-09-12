@@ -1,0 +1,31 @@
+.headers {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 19px;
+}
+.italicized {
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+}
+hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+h4, #info{
+    padding: 0px;
+    margin-bottom: 1px;
+    margin-top: 8px;
+}
+h3 {
+    font-size: 20px;
+    padding: 0px;
+    margin-bottom: 1px;
+    margin-top: 28px;
+}
+p {
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-top: 3px;
+}
